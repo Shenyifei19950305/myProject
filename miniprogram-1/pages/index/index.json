@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "SearchBar":"/components/searchBar/SearchBar"
+
+  },
+  "navigationBarTitleText": "襄阳牛肉面"
+}
